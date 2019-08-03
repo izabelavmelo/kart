@@ -1,0 +1,2 @@
+Linguagem usada: Python 2.7
+Comando para executar: python main.py
